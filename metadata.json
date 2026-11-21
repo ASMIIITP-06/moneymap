@@ -1,0 +1,6 @@
+{
+  "name": "MoneyMap — Personal Finance Coach",
+  "description": "A living personal finance workspace with daily expense logging, statement/SMS import, correction rules, Cash-flow Shock Radar, goal simulations, and end-of-month Profit & Loss CSV reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
